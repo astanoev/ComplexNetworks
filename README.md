@@ -28,4 +28,3 @@ Simulations can be run from cs.contagion.MultiDiseaseSpread
 Simulations for MultiPlex spreading can be run from cs.contagion.MultiplexSpread
 
 example code to follow..
----------------------------------------------------
